@@ -21,9 +21,7 @@ Open Source WebRTC SDK
 ![Docker](https://shieldcn.dev/badge/Docker-2496ED.svg?logo=docker&logoColor=fff&variant=branded&size=xs)
 ![PeerJS](https://shieldcn.dev/badge/PeerJS-E36002.svg?logo=peerjs&logoColor=fff&variant=branded&size=xs)
 
-> IMPORTANT: This SDK is currently in BETA stage. It may contain bugs, have limited features, and is not yet production ready. We are actively working on improvements and new features.
-
-> Currently, there's no documentation nor a playground. These will be provided in the next update tho.
+> IMPORTANT: This SDK is currently in BETA stage. It may contain bugs, have limited features, and is not yet production ready. We are actively working on improvements and new features. Currently, there's no documentation nor a playground. These will be provided in the next update tho.
 
 ## DESCRIPTION
 
@@ -85,7 +83,7 @@ This project is licensed under the MIT License. You are free to use and modify i
 
 ## GITHUB REPOSITORY
 
-https://github.com/BuboTerrae/MitMe
+[GitHub Repo Link](https://github.com/BuboTerrae/MitMe)
 
 ## THANK YOU
 
